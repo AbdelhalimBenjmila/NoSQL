@@ -1,9 +1,11 @@
 # NoSQL
 
-1 - Build Docker Compose
-docker-compose up -d --build
-docker ps
+1 - Build Docker Compose 
 
+- docker-compose up -d --build
+- docker ps
+
+![image](https://user-images.githubusercontent.com/49842370/155031417-1f0943bf-0fcc-4c90-a426-3eb0f304421c.png)
 
 
 Postman :
