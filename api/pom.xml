@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>spring-boot-cassandra</name>
-	<description>Spring Boot + Apache Cassandra example app</description>
+	<description>Spring Boot + Apache Cassandra</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

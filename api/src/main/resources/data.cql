@@ -5,7 +5,7 @@ CREATE TABLE spring_boot_cassandra.user (
    name TEXT,
    address TEXT,
    age  INT,
-   phone TEXT,
+   phone INT,
    PRIMARY KEY (name, address, age, phone))
    WITH CLUSTERING ORDER BY (address ASC, age ASC, phone ASC);
 
